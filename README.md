@@ -155,13 +155,11 @@ No known bugs at this time.
 
 ## Authors
 DANIEL SUCCESSFUL - [Github](https://github.com/BISHOPDAN) / [Twitter](https://twitter.com/Dani6ixSuccess6/)  
-- [Github]() / [Twitter]() 
-- [Github]() / [Twitter]()
-- [Github]() / [Twitter]()
+CHRISTINE WAVUA - [Github](https://github.com/WavuaW) / [Twitter](https://twitter.com/CwRawberry/) 
 =======
 
 >>>>>>> aac5acdaf910012588914eb3717c1dfbc215cbd8
 Second part of Airbnb: Joann Vuong
 
 ## License
-Public Domain. No copy write protection. 
+iPublic Domain. No copy write protection. 
