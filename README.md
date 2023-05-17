@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-DANIEL SUCCESSFUL - [Github](https://github.com/BISHOPDAN) / [Twitter](https://twitter.com/Dani6ixSuccess6/)  
-CHRISTINE WAVUA - [Github](https://github.com/WavuaW) / [Twitter](https://twitter.com/CwRawberry/) 
+OKURU CHIDOZIE PRINCE- [Github](https://github.com/Prince-Okuru) 
+KELVIN MBUGUA - [Github](https://github.com/Kelvin-Mbugua)
 =======
 
 >>>>>>> aac5acdaf910012588914eb3717c1dfbc215cbd8
